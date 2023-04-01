@@ -1,1 +1,2 @@
 Again, just a refresher
+testing adding commit message via VS Code
